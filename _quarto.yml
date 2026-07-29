@@ -83,7 +83,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/Herong-Wang/Herong-Wang.github.io.git
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
