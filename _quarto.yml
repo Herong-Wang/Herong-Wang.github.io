@@ -5,13 +5,13 @@ project:
     - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+#description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+#author-meta: "Dr. Gang He"
 
 website:
-  title: "Quarto Academic"
+  title: "Herong Wang, MPH"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Herong Wang, PhD candidate"
  
   navbar:
     background: light  # You can change the background color here
@@ -91,7 +91,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://drganghe.github.io/Herong-Wang.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
